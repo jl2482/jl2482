@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jl2482
 - 👀 I’m interested in learning I'm super green
 - 🌱 I’m currently learning attacking wifi networks
-- 💞️ I’m looking to collaborate on anything cool or business
+-  I’m looking to collaborate on anything cool or business
 - 📫 How to reach me via email joelleon299@gmail.com 
 
 <!---
